@@ -1,10 +1,10 @@
 ### Hi 👋 I am Saumitra!
 
-I am Full stack developer who is passionate about machine learning and it's efficient deployment on web applications. I love to work with technologies including TensorFlow, PyTorch to name a few. Please feel free to reach out to me 🙂
+I am Full stack developer who is passionate about machine learning and it's efficient deployment on web applications. I love to work with latest technologies including TensorFlow, PyTorch to name a few.
 
-- 🔭 I’m currently working on NodeJS ,ReactJS and Machine Learning [@TCS](https://www.tcs.com/).
-- ⚡ I’m interested in the area of EdgeAI and Computer Vision.
-- 🌱 I’m currently learning how to compress and optimize neural networks for embedded/mobile devices.
+- 🔭 I’m currently working on NodeJS ,ReactJS,Python and Machine Learning [@TCS](https://www.tcs.com/).
+- ⚡ I’m interested in the area of NLP and Computer Vision.
+- 🌱 I’m currently learning how to integrate machine learning in existing application to benefits the business.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His
 - 📫 More details: [saumitra619.github.io](https://saumitra619.github.io/)
