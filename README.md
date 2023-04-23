@@ -5,7 +5,7 @@ I am Full stack developer who is passionate about machine learning and it's effi
 - 🔭 I’m currently working on NodeJS ,ReactJS,Python and Machine Learning [@TCS](https://www.tcs.com/).
 - ⚡ I’m interested in the area of NLP and Computer Vision.
 - 🌱 I’m currently learning how to integrate machine learning in existing application to benefits the business.
-- 👯 I’m always open to meaningful collaborations.
+- 👯 I’m uploading all my continous learning & experiments with latest technologies here.
 - 😄 Pronouns: He/His
 - 📫 More details: [saumitra619.github.io](https://saumitra619.github.io/)
 
